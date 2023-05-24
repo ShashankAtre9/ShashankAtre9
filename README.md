@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashank Atre
-- 👀 I’m interested in Data Field.
-- 🌱 I’m currently learning Data Visualization, Data Cleaning, Data Modelling, and other skills which are help to solve the problems of stakeholders and Enterprise.
+- 👀 I’m Data Enthusiast
+- 🌱 I’m currently learning Big Data.
 - 📫 How to reach me - atreshashank9@gmail.com
 
 <!---
